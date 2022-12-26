@@ -33,10 +33,10 @@
     "puppeteer-core": "^10.1.0",
     "query-selector-shadow-dom": "^1.0.0",
     "ua-parser-js": "^0.7.21",
-    "uuid": "^8.0.0"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/ua-parser-js": "^0.7.33",
-    "@types/uuid": "^8.3.0"
+    "@types/uuid": "^9.0.0"
   }
 }
